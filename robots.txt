@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://odpadyisoh.dokufile.com/sitemap.xml
